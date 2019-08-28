@@ -299,7 +299,7 @@ MadCap.WebHelp=MadCap.CreateNamespace("WebHelp");MadCap.WebHelp.HelpSystem=funct
 
 (function ()
 {
-var helpSystemName = "Default.htm";
+var helpSystemName = "Default.html";
 
     MadCap.OpenHelp = function (id, skinName, searchQuery, firstPick, pathToHelpSystem)
     {
